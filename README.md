@@ -8,4 +8,4 @@ assim reduz a ansiedade que é esperar o final do mês.
 
 
 
-#feito por VictorisOliveira and @marcelo-py
+#feito por @VictorisOliveira and @marcelo-py
